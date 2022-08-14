@@ -1,2 +1,5 @@
 # Mermaid-diagram-generator-for-C-projects
-A basic python script that generates mermaid flow charts representing the local includes in a given C projects src folder
+A basic python script that generates mermaid flow charts representing the local includes in a given C projects src folder.
+
+Below is the result of running the script with the target directory being https://github.com/ARLJay/OpenGL-Starter/tree/main/src dated 14/08/2022
+[![](https://mermaid.ink/img/pako:eNptkTFvwjAQhf9KdDNUcQIBMnQpjEzt5nSw7Cu22sTIOJQK8d97MU6Mqm7fe_eedbavIK1CqOHgxFFnb9umy7KcW-e1DZaRL6JFJ570-zBi3OPF9w6jLvhJC4UuypI77EiSIYOx-O-o-2jJzyi9HZMVPxv83gvvzCWethoTd7nm7eN0Q9J0sc3yx3r00rLRKNJ68TrluP-QGJxsPZ8_54FYQVgGzIkWgVZEyylYpeAmYEXEYn1ANpVYMbUi5gmrhEVC9sctYQb0gHRtRT92HQYNeI0tNlATKuE-G2i6G-X6oxIed8rQ-0H9Ib5OOAPRe_v600movetxDG2NoP9pY-r2CzH-ob4)](https://mermaid.live/edit#pako:eNptkTFvwjAQhf9KdDNUcQIBMnQpjEzt5nSw7Cu22sTIOJQK8d97MU6Mqm7fe_eedbavIK1CqOHgxFFnb9umy7KcW-e1DZaRL6JFJ570-zBi3OPF9w6jLvhJC4UuypI77EiSIYOx-O-o-2jJzyi9HZMVPxv83gvvzCWethoTd7nm7eN0Q9J0sc3yx3r00rLRKNJ68TrluP-QGJxsPZ8_54FYQVgGzIkWgVZEyylYpeAmYEXEYn1ANpVYMbUi5gmrhEVC9sctYQb0gHRtRT92HQYNeI0tNlATKuE-G2i6G-X6oxIed8rQ-0H9Ib5OOAPRe_v600movetxDG2NoP9pY-r2CzH-ob4)
